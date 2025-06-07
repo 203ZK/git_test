@@ -1,5 +1,5 @@
 def clash():
-    return "MAKE A LOUD NOISE!!!!"
+    return "KJHJBKLHGUHIJOJIHUG!!!!" # Only in main
 
 def test(a, b):
     return a + b
