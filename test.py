@@ -1,5 +1,6 @@
 def clash():
     return "KJHJBKLHGUHIJOJIHUG!!!!" # Only in main
+    return "MAKE A soft sound....." # Only in feature
 
 def test(a, b):
     return a + b
