@@ -7,5 +7,5 @@ def test(a, b):
 def whatever(x, y):
     return x > y
 
-def whoKnows(b: bool) -> None:
+def everyoneKnows(b: bool) -> None:
     print("I'm so happy!")
