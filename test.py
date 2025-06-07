@@ -1,5 +1,5 @@
 def clash():
-    return "MAKE A LOUD NOISE!!!!"
+    return "MAKE A soft sound....." # Only in feature
 
 def test(a, b):
     return a + b
